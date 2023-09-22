@@ -1,1 +1,1 @@
-# rock-paper-scissor-game1
+# rock-paper-scissor-game using python
